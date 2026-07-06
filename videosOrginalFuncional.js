@@ -56,9 +56,9 @@ var entryLang = 'en';
 var exitLang = 'es';
 var translatedRes = '';
 
-var translateAPIKey = 'AIzaSyAGvEzCaMeaL_woHEsCo_w85802jZVuYnI';
+var translateAPIKey = '';
 // 
-let translate = true;
+let translate = false;
 
 //----------------------------------------------------------- CAMERA --------
 
